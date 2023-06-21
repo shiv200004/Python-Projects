@@ -44,3 +44,12 @@ elif a:
     print("you win!")
 else:
     print("you lose!")
+    
+    
+'''Explanation 
+this Python code is a simple game of Snake, Water, and Gun. It uses the random function to generate the computer's 
+choice and takes input from the user to determine their choice. The game logic is defined in the gamewin function, 
+which returns True if the user wins, False if the computer wins, and None if it's a tie. The game's outcome is printed 
+on the console, indicating the computer's and user's choices and whether the user has won, lost, or tied'''
+ 
+   
